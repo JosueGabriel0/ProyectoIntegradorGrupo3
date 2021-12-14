@@ -1,0 +1,9 @@
+P1	Correo	Periodico	1.4	0.1	100	Unidad
+P2	Trome	Periodico	1.8	0.2	200	Unidad
+P3	Sin Fronteras	Periodico	0.7	0.3	200	Unidad
+P4	El Popular	Periodico	0.5	0.2	130	Unidad
+P5	La Republica	Periodico	1.1	0.4	110	Unidad
+P6	Libero	Periodico	0.4	0.1	150	Unidad
+P7	OJO	Periodico	0.5	0.2	110	Unidad
+P8	Los Andes	Periodico	0.7	0.3	110	Unidad
+P9	Peru21	Periodico	0.7	0.3	110	Unidad
